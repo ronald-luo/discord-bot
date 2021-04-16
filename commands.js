@@ -1,7 +1,9 @@
 const gif = require('./commands/gif');
 const kip = require('./commands/kip');
+const weather = require('./commands/weather');
+const crypto = require('./commands/crypto');
 
-const commands = { kip, gif }
+const commands = { crypto, weather, kip, gif }
 
 module.exports = async function (msg) {
     let tokens = msg.content.split(' ')
