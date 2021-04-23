@@ -1,4 +1,4 @@
-# H1 Mudkip is a pokemon I can get behind | discord-bot
+# Mudkip is a pokemon I can get behind | discord-bot
 
 H5 a discord bot that you can start building on today, built on [discord.js](https://discord.js.org/#/)
 
@@ -6,11 +6,11 @@ H5 a discord bot that you can start building on today, built on [discord.js](htt
 <h1 align="center"><img src="https://i.imgflip.com/56sng7.jpg"></h1>
 
 
-# H2 Make sure to put your API keys in the .env file
+# Make sure to put your API keys in the .env file
 
 ![image](https://user-images.githubusercontent.com/67345874/115808784-f08cc780-a3b8-11eb-9674-f367587d79c7.png)
 
-# H2 Available Commands:
+# Available Commands:
 
 1. !kip
 
@@ -28,14 +28,14 @@ H5 a discord bot that you can start building on today, built on [discord.js](htt
 
 <img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
 
-# H2 APIs Used:
+# APIs Used:
 
     1. Weather - [Open Weather API](https://openweathermap.org/api)
     2. Crypto - [Coin Market Cap API](https://coinmarketcap.com/api/)
     3. Tenor - [Tenor API](https://tenor.com/gifapi)
     4. Discord - [Discord API](https://discord.com/developers/docs/intro)
 
-# H2 Ideas to implement
+# Ideas to implement
 
 1. Tic Tac Toe with friends
 2. Valentines Compatibility Calculator <3
