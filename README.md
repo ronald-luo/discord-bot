@@ -30,10 +30,10 @@ H5 a discord bot that you can start building on today, built on [discord.js](htt
 
 # APIs Used:
 
-    1. Weather - [Open Weather API](https://openweathermap.org/api)
-    2. Crypto - [Coin Market Cap API](https://coinmarketcap.com/api/)
-    3. Tenor - [Tenor API](https://tenor.com/gifapi)
-    4. Discord - [Discord API](https://discord.com/developers/docs/intro)
+1. Weather - [Open Weather API](https://openweathermap.org/api)
+2. Crypto - [Coin Market Cap API](https://coinmarketcap.com/api/)
+3. Tenor - [Tenor API](https://tenor.com/gifapi)
+4. Discord - [Discord API](https://discord.com/developers/docs/intro)
 
 # Ideas to implement
 
