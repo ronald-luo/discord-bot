@@ -1,13 +1,10 @@
-# H1 discord-bot
+# H1 Mudkip is a pokemon I can get behind | discord-bot
+
+![image](https://user-images.githubusercontent.com/67345874/115810208-93dedc00-a3bb-11eb-88f7-3ae7a60d7fa9.png)
+
 
 a discord bot that you can start building on today, built on [discord.js](https://discord.js.org/#/)
 
-# H2 APIs Used:
-
-    1. Weather - [Open Weather API](https://openweathermap.org/api)
-    2. Crypto - [Coin Market Cap API](https://coinmarketcap.com/api/)
-    3. Tenor - [Tenor API](https://tenor.com/gifapi)
-    4. Discord - [Discord API](https://discord.com/developers/docs/intro)
 
 # H2 Make sure to put your API keys in the .env file
 
@@ -31,8 +28,24 @@ a discord bot that you can start building on today, built on [discord.js](https:
 
 <img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
 
+# H2 APIs Used:
+
+    1. Weather - [Open Weather API](https://openweathermap.org/api)
+    2. Crypto - [Coin Market Cap API](https://coinmarketcap.com/api/)
+    3. Tenor - [Tenor API](https://tenor.com/gifapi)
+    4. Discord - [Discord API](https://discord.com/developers/docs/intro)
+
+# H2 Ideas to implement
+
+1. Tic Tac Toe with friends
+2. Valentines Compatibility Calculator <3
+3. Get stock prices
+4. Youtube song player
+
+
 ~ More to come... ~
 
 
 Check out my [blog](https://www.ronald-luo.com/)
-Inspired by Daniel Shiffman @ [The Coding Train - Discord Bot](https://thecodingtrain.com/learning/bots/discord/)
+
+Bot inspired by Daniel Shiffman @ [The Coding Train - Discord Bot](https://thecodingtrain.com/learning/bots/discord/)
