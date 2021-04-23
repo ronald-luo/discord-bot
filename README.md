@@ -17,13 +17,13 @@ a discord bot that you can start building on today, built on [discord.js](https:
 
 1. !kip
 ⋅⋅*
-<img src="https://i.gyazo.com/3d3fd4c7b96bf11315ee504fb0a5dd0f.gif" width="500">
+<img src="https://i.gyazo.com/3d3fd4c7b96bf11315ee504fb0a5dd0f.gif" width="600">
 3. !crypto [coin name]
 ⋅⋅*
-<img src="https://i.gyazo.com/ca0cba5e5e45296b925f070482876f50.gif" width="500">
+<img src="https://i.gyazo.com/ca0cba5e5e45296b925f070482876f50.gif" width="600">
 4. !weather [location]
 ⋅⋅*
-<img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="500">
+<img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
 5. !gif [subject]
 ⋅⋅*
 <img src="https://i.gyazo.com/919103671e126a7da0907d14cf62c7ae.gif" width="600">
