@@ -25,11 +25,11 @@ a discord bot that you can start building on today, built on [discord.js](https:
 
 4. !weather [location]
 
-<img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
+<img src="https://i.gyazo.com/919103671e126a7da0907d14cf62c7ae.gif" width="600">
 
 5. !gif [subject]
 
-<img src="https://i.gyazo.com/919103671e126a7da0907d14cf62c7ae.gif" width="600">
+<img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
 
 ~ More to come... ~
 
