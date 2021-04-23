@@ -1,6 +1,6 @@
 # H1 Mudkip is a pokemon I can get behind | discord-bot
 
-<img src="https://imgflip.com/i/56sng7" width="800">
+![](https://i.imgflip.com/56sng7.jpg)
 
 
 a discord bot that you can start building on today, built on [discord.js](https://discord.js.org/#/)
