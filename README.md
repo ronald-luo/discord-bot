@@ -1,6 +1,6 @@
 # Mudkip | discord-bot
 
-# H5 a discord bot that you can start building on today, built on [discord.js](https://discord.js.org/#/)
+a discord bot that you can start building on today, built on [discord.js](https://discord.js.org/#/)
 
     
 <h1 align="center"><img src="https://i.imgflip.com/56sng7.jpg"></h1>
