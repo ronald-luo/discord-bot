@@ -30,9 +30,31 @@ a discord bot that you can start building on today, built on [discord.js](https:
 
 
 
-5. !gif [subject]
+5. !daily
 
-<img src="https://i.gyazo.com/c2ebc1381efe15cdcd215003c850af86.gif" width="600">
+<img src="https://i.gyazo.com/eeedc3b0cea5fc79023e0e07e1b9a548.gif" width="600">
+
+
+
+
+6. !init
+
+<img src="https://i.gyazo.com/1e9c12661a6738e32d65871d0e0c1152.gif" width="600">
+
+
+
+
+7. !leaderboard
+
+<img src="https://i.gyazo.com/bce0ec35ab42f5afee7eee8f89b715f4.gif" width="600">
+
+
+
+
+8. !help
+
+<img src="https://i.gyazo.com/29afc1f9d0a5524a61213d945765790f.gif" width="600">
+
 
 
 
