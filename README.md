@@ -32,7 +32,7 @@ a discord bot that you can start building on today, built on [discord.js](https:
 
 5. !daily
 
-<img src="https://i.gyazo.com/eeedc3b0cea5fc79023e0e07e1b9a548.gif" width="600">
+<img src="https://i.gyazo.com/0714aa459acf900c4b16f66d16504702.gif" width="600">
 
 
 
